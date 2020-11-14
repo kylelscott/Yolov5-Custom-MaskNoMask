@@ -3,6 +3,7 @@ Custom yolov5 model to detect masks
 
 Special thanks to Jacob Solawetz at Roboflow.ai. I used this tutorial to train my custom yolov5s model:
 https://towardsdatascience.com/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208
+
 I chose the Mask Wearing dataset with black padding from Roboflow website:
 https://public.roboflow.com/object-detection/mask-wearing/1
 
